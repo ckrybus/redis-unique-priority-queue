@@ -1,0 +1,9 @@
+redis
+
+# dev requirements
+pytest
+
+
+
+
+
